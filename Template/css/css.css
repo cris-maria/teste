@@ -1,0 +1,231 @@
+body{
+    background: #f1f1f1;
+    margin: 0%;
+}
+.main-body{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    height: 1090px;
+    margin: 0 auto;
+    margin-top: 12%;
+    font-family: "roboto";
+}
+.contanier-left{
+    width: 33%;
+    height: 1045px;
+    background: white;
+    margin-top: -14%;
+    box-shadow: 2px 5px 12px 1px #888888;
+}
+img{
+    max-width: 100%;
+}
+.image h2{
+    display: block;
+    margin-top: -16%;
+    padding: 4%;
+    font-family: "roboto",sans-serif;
+    font-size: 30px;
+}
+hr{
+    width: 95%;
+    margin: 0 auto;
+    border: 0;
+    height: 0;
+    border-top: 1px solid #eee;   
+    overflow: visible;
+}
+.contanier-rigth{
+    width: 66%;
+    height: 1030px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: -11%;
+    padding-left: 1%;
+}
+.contanier-right1{
+    width: 100%;
+    height: 655px;
+    background: #fff;
+    margin-top: -0.3%;
+    box-shadow: 2px 5px 12px 1px #888888;
+}
+.contanier-right2{
+    width: 100%;
+    height: 660px;
+    background: #fff;
+    margin-top: 1.5%;
+    box-shadow: 2px 5px 12px 1px #888888;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color:#ff471a;
+    margin-top: -10%;
+    clear: both;
+    box-shadow: 2px 5px 12px 1px #888888;
+}
+footer a {
+    color: #fff;
+}
+footer p{
+    padding: 0.5%!important;
+}
+.w3-text-teal{
+    color: #ff471a;
+}
+
+i{
+    padding:1.5%;
+}
+.skills p,.languages p{
+    margin: 1em;
+    color: #757575;
+    font-size: 15px;
+}
+.information,.skills b,.languages b{
+    color: #757575;
+    font-size: 18px;
+}
+.skills{
+    font-family: "roboto",sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 2%;
+}
+.percent{
+    width: 90%;
+    height: 18px;
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    border-radius: 16px;
+}
+.progress2{
+    height: 100%;
+    width: 90%;
+    text-align: center;
+    background-color: #ff471a;
+    border-radius: 16px;
+}
+.progress3{
+    height: 100%;
+    width: 80%;
+    text-align: center;
+    background-color: #ff471a;
+    border-radius: 16px;
+}
+.progress3{
+    height: 100%;
+    width: 75%;
+    text-align: center;
+    background-color: #ff471a;
+    border-radius: 16px
+}
+.progress4{
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    background-color:#ff471a;
+    border-radius: 16px
+}
+.evoluction{
+    height: 24px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+    border-radius: 16px;
+}
+.progress{
+    width: 90%;
+    margin: 0 auto;
+    height: 24px;
+    background-color: #f1f1f1;
+    border-radius: 16px;
+}
+.qtd{
+    width: 100%;
+    height: 24px;
+    background-color:#ff471a;
+    border-radius: 16px;
+}
+.qtd1{
+    width: 60%;
+    height: 24px;
+    background-color:#ff471a;
+    border-radius: 16px;
+}
+.qtd2{
+    width: 30%;
+    height: 24px;
+    background-color:#ff471a;
+    border-radius: 16px;
+}
+footer  p{
+    text-align: center;
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    color: #ffffff;
+    font-family: "Roboto",sans-serif;
+    padding: 15px;
+}
+.w3-hover-opacity{
+    color: #ffffff;
+}
+.experience{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+.experience h2{
+    color: #757575;
+    font-size: 30px;
+    font-family: "Roboto",sans-serif;
+}
+
+.row{
+    width: 95%;
+    margin: 0 auto;
+    padding-left: 5px;
+}
+.row h5 b{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    font-family: "Roboto",sans-serif;
+    opacity: 0.60;
+    padding-left: 8px;
+    
+}
+.row h6{
+    color:#ff471a;
+    font-size: 16px;
+    font-family:"Roboto",sans-serif;
+    margin: 5px 0px;
+    margin-top: 2%;
+} 
+
+.atual{
+    color: #ffffff;
+    background: #ff471a;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 400;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family:"Roboto",sans-serif;
+}
+.row p{
+    width: 100%;
+    margin: 15px;
+    font-size: 15px;
+    font-family:"Roboto",sans-serif;
+    color:#000000;
+}
+footer p i{
+    margin-top: -20%;
+    padding: 5px 0px;
+}
